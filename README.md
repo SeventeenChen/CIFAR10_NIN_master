@@ -68,6 +68,5 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 - [1] [Network In Network](https://arxiv.org/abs/1312.4400)
 - [2] [Learning Multiple Layers of Features from Tiny Images](http://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), Alex Krizhevsky, 2009.
 - [3] [CSDN Blog](https://blog.csdn.net/ouyangfushu/article/details/90212925)
-- [4] [Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), 2009.
-- [CSDN Blog](https://blog.csdn.net/xjz18298268521/article/details/53642711)
+- [4] [CSDN Blog](https://blog.csdn.net/xjz18298268521/article/details/53642711)
 
