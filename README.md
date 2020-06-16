@@ -60,10 +60,14 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 
 - [ ] README.md in English
 
+## Dataset lost
+由于本实验所用数据集较大，上传不方便，已删除对应数据集文件
+
 ## Reference
 
 - [1] [Network In Network](https://arxiv.org/abs/1312.4400)
 - [2] [Learning Multiple Layers of Features from Tiny Images](http://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), Alex Krizhevsky, 2009.
-- [CSDN Blog](https://blog.csdn.net/ouyangfushu/article/details/90212925)
+- [3] [CSDN Blog](https://blog.csdn.net/ouyangfushu/article/details/90212925)
+- [4] [Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), 2009.
 - [CSDN Blog](https://blog.csdn.net/xjz18298268521/article/details/53642711)
 
